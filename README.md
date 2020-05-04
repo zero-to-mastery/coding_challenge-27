@@ -1,16 +1,16 @@
 # coding_challenge-27 --- Sudoku Goku 
 
-Oh boy this is going to be a good one! In this month's coding challenge we are going to really push your boundaries when it comes to coding and logic. As programmers there are times where we thing a problem is too difficult to solve and we want to give up. However those moments are opportunities that can have a real positive effect on your ability to improve and developer strong skills. This coding challenge aims to do exactly that: Help you push through some hard boundaries so that by the end of it you feel like a better programmer (and you will!). 
+Oh boy this is going to be a good one! **In this month's coding challenge we are going to really push your boundaries when it comes to coding and logic**. As programmers there are times where we thing a problem is too difficult to solve and we want to give up. However those moments are opportunities that can have a real positive effect on your ability to improve and developer strong skills. This coding challenge aims to do exactly that: Help you push through some hard boundaries so that by the end of it you feel like a better programmer (and you will!). 
 
-You can work on a project individually or in a group and you can use the video below as a "guide" on how to solve this problem and also how sudoku works. Please note that there are many solutions and you will be able to use Recursion or not to solve this problem. (If you don't know what Recursion is, check out that section in my (Master the Coding Interview course)[https://zerotomastery.io/promotions])
+You can work on a project individually or in a group and you can use the video below as a "guide" on how to solve this problem and also how sudoku works. Please note that there are many solutions and you will be able to use Recursion or not to solve this problem (if you don't know what Recursion is, check out that section in my [Master the Coding Interview course](https://zerotomastery.io/promotions))
 
-**What we are building:A Sudoku solver --> ** https://www.youtube.com/watch?v=G_UYXzGuqvM
+**What we are building:A Sudoku solver -->** https://www.youtube.com/watch?v=G_UYXzGuqvM
 
 
 Please Use the **#coding-challenge** channel on Discord to discuss and share your work **or if you would like to look for people to work with on a project.** At the end of the challenge, I will compile everyone's submitted websites/projects/code on here to showcase what the ZTM community has built. You can find past coding challenge submission [here](https://zerotomastery.io/community/coding-challenges/)
 
 ## What Am I  Building??
-You will try to build a program that is able to solve a Sudoku puzzle by itself! You can use whatever programming language you want including Python and JavaScript and the problem is NOT as hard as you might think, but it will require you to really think about the program and design a working solution. 
+**You will try to build a program that is able to solve a Sudoku puzzle by itself!** You can use whatever programming language you want including Python and JavaScript and the problem is NOT as hard as you might think, but it will require you to really think about the program and design a working solution. 
 
 To get an idea of what you are building, watch this video: https://www.youtube.com/watch?v=G_UYXzGuqvM
 
