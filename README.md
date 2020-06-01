@@ -50,8 +50,7 @@ https://github.com/phoebeli23/sudokusolver
   
 litomayez#5249  
 Github Repo  
-https://github.com/RohanLodhi/sudoku  
-  
+https://github.com/RohanLodhi/sudoku    
 ---------  
   
 idubey#0867  
@@ -61,20 +60,17 @@ https://github.com/idubey-code/Games/tree/master/SudokuGoku
   
 j[o]nch009#8698  
 Github Repo  
-https://github.com/jnch009/SudokuPuzzleReact  
-  
+https://github.com/jnch009/SudokuPuzzleReact    
 ---------  
   
 YogiHa#9533  
 Github Repo  
 https://github.com/YogiHa/sudokal  
-  
 ---------  
   
 newchar#3140  
 Github Pages  
-https://famnew.github.io/coding_challenge-27/  
-  
+https://famnew.github.io/coding_challenge-27/   
 ---------  
   
 Mike Coleman#0962  
@@ -98,25 +94,23 @@ Elkmar#1379
 Github Pages  
 https://elkmar.github.io/Sudoku-Solver/  
 Github Repo  
-https://github.com/Elkmar/Sudoku-Solver  
-  
+https://github.com/Elkmar/Sudoku-Solver   
 ---------  
   
 Arshk#9357  
 Github Repo  
 https://github.com/arshkenia/SudokuGuko  
-  
 ---------  
   
 Sanjucta#7043  
 Github Repo  
-https://github.com/sanjucta/sudoku-solver  
-  
----------  
+https://github.com/sanjucta/sudoku-solver    
+---------
+
 SlavaUA#8073  
 Github Pages  
 https://shegan78.github.io/muse2/  
-
+------
 
 ## The Rules Are:
 
