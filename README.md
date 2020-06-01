@@ -16,7 +16,107 @@ To get an idea of what you are building, watch this video: https://www.youtube.c
 
 ## Submissions:
 At the end of the challenge, we will post everyone's projects down below so you can see what others have done. In order to see your submission below, make sure you read the next section for the submission guidelines (In *The Rules Are* section)!
+
+---------  
+Ansh#9264  
+Github Repo  
+https://github.com/shree1999/Sudoku-Solver  
+---------  
   
+fmandsourwala#9589  
+Github Repo  
+https://github.com/fatemamandsourwala/sudoku-solver    
+---------  
+  
+Fantasy#1014  
+Github Repo  
+https://github.com/Mudhol/sudoku-solver-python.git  
+---------  
+  
+Pharek#7825  
+Github Repo  
+https://github.com/pharek/sudoku_goku.git  
+---------  
+  
+Zallaras#6214  
+Github Repo  
+https://github.com/Zalaras/sudoku-solver-python  
+---------  
+  
+phobe#5510  
+Github Repo  
+https://github.com/phoebeli23/sudokusolver  
+---------  
+  
+litomayez#5249  
+Github Repo  
+https://github.com/RohanLodhi/sudoku  
+  
+---------  
+  
+idubey#0867  
+Github Repo  
+https://github.com/idubey-code/Games/tree/master/SudokuGoku   
+---------  
+  
+j[o]nch009#8698  
+Github Repo  
+https://github.com/jnch009/SudokuPuzzleReact  
+  
+---------  
+  
+YogiHa#9533  
+Github Repo  
+https://github.com/YogiHa/sudokal  
+  
+---------  
+  
+newchar#3140  
+Github Pages  
+https://famnew.github.io/coding_challenge-27/  
+  
+---------  
+  
+Mike Coleman#0962  
+Github Pages  
+https://mcflav.github.io/Sudoku/  
+---------  
+  
+Łukasz Wiśniewski#5946  
+Github Repo  
+https://github.com/lukaszwisniewski88/coding-challenge-27-svelte  
+Heroku Deployment  
+http://sudoku-goku.herokuapp.com/  
+---------  
+  
+Seeni#5726  
+Github Repo  
+https://github.com/brseeni/coding_challenge-27  
+---------  
+  
+Elkmar#1379  
+Github Pages  
+https://elkmar.github.io/Sudoku-Solver/  
+Github Repo  
+https://github.com/Elkmar/Sudoku-Solver  
+  
+---------  
+  
+Arshk#9357  
+Github Repo  
+https://github.com/arshkenia/SudokuGuko  
+  
+---------  
+  
+Sanjucta#7043  
+Github Repo  
+https://github.com/sanjucta/sudoku-solver  
+  
+---------  
+SlavaUA#8073  
+Github Pages  
+https://shegan78.github.io/muse2/  
+
 
 ## The Rules Are:
 
